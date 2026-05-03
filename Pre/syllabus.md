@@ -3,7 +3,7 @@
 
 ## 🧾 1. Prelims Exam (Objective)
 
-### 🔹 English Language
+### 🔹 English Language (can use smartkeeda)
 
 * Reading Comprehension
 * Cloze Test
@@ -12,7 +12,7 @@
 * Para Jumbles
 * Fill in the blanks
 
-### 🔹 Reasoning Ability
+### 🔹 Reasoning Ability (for remaining use indiabix)
 
 * Puzzles & Seating Arrangement - p
 * Coding-Decoding - p
@@ -29,7 +29,7 @@
 * Data Interpretation (DI)
 * Ratio & Proportion 
 * Profit & Loss - p
-* Time & Work
+* Time & Work - p
 * Speed, Time & Distance - p
 * Probability & Permutation - p
 
